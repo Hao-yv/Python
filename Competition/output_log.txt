@@ -1,0 +1,337 @@
+No table found on the webpage. HTML content:
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <title>历年项目 | 江苏省大学生创新创业训练计划平台</title>
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    
+    <link href="/cxcypt/assets/vendors/global/vendors.bundle.min.css" rel="stylesheet" />
+    <link href="/cxcypt/assets/vendors/dist/css/theme1/style.bundle.css" rel="stylesheet" />
+    <link href="/cxcypt/assets/dist/css/Areas/Index/Mode01/style.css" rel="stylesheet" />
+    
+    <link href="/cxcypt/assets/dist/css/framework/change.page.4.0.css" rel="stylesheet" />
+    <link href="/cxcypt/assets/dist/css/Areas/Index/Mode01/_Layout_Index.css" rel="stylesheet" />
+    
+    <!--[if lt IE 9]>
+    <script src="https://jsgjc.jse.edu.cn/cxcypt/assets/dist/js/Areas/Index/Plugins/html5shiv.min.js" type="text/javascript"></script>
+    <script src="https://jsgjc.jse.edu.cn/cxcypt/assets/dist/js/Areas/Index/Plugins/respond.min.js" type="text/javascript"></script>
+    <![endif]-->
+</head>
+<body>
+    <div class="info-bar-area visible-max noselect c--header-footer c--page-init-load">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <div class="info-bar-inner">
+                        <div class="logo-wrapper desktop-logo">
+                            <a href="https://jsgjc.jse.edu.cn/cxcypt" class="logo">
+                                <img class="weblogo" src="/cxcypt/assets/img/Index/Mode01/logo.png" />
+                                <span class="webtitle">
+                                    <span class="webnamecn">江苏省大学生创新创业训练计划平台</span>
+                                    <span class="webnameen">
+                                        Jiangsu Students&#39; Platform for innovation and entrepreneurship training program
+                                    </span>
+                                </span>
+                            </a>
+                        </div>
+                        <a href="https://jsgjc.jse.edu.cn/cxcypt/Index/Certificate" class="info-bar-inner-action">
+                            <div id="zhengshu"></div>
+                        </a>
+                        <div id="riqi" class="info-bar-inner-action">
+                                <div class="year">2023年11月</div>
+                                <div class="day">21</div>
+                                <div class="week">星期二</div>
+
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+    <!-- 头部 end -->
+    <!-- 菜单 start -->
+    <header role="banner" class="probootstrap-header c--header-footer c--page-init-load">
+        <div class="container">
+            <a href="https://jsgjc.jse.edu.cn/cxcypt" class="probootstrap-logo  visible-xs">
+                <span class="webnamecn-mobile">江苏省大学生创新创业训练计划平台</span>
+            </a>
+            <a href="javascript:void(0);" class="probootstrap-burger-menu visible-xs"><i class="fa fa-bars"></i></a>
+            <div class="mobile-menu-overlay"></div>
+            <nav role="navigation" class="probootstrap-nav noselect">
+                <ul class="probootstrap-main-nav">
+                    <li class="first-li li-active" data-index-nav-name="index">
+                        <a href="https://jsgjc.jse.edu.cn/cxcypt">
+                            <span>
+                                首 页
+                            </span>
+                        </a>
+                        <div class="underline"></div>
+                    </li>
+                    <li class="first-li" data-index-nav-name="itempagelist">
+                        <a href="https://jsgjc.jse.edu.cn/cxcypt/Index/ItemPageDashboard?LXYear=2023">
+                            <span>
+                                历年项目
+                            </span>
+                            <i class="fa fa-angle-right visible-xs"></i>
+                        </a>
+                        <div class="underline"></div>
+                                <ul class="second-ul">
+                                            <li><a href="https://jsgjc.jse.edu.cn/cxcypt/Index/ItemPageDashboard?LXYear=2023">2023</a></li>
+                                            <li><a href="https://jsgjc.jse.edu.cn/cxcypt/Index/ItemPageDashboard?LXYear=2022">2022</a></li>
+                                            <li><a href="https://jsgjc.jse.edu.cn/cxcypt/Index/ItemPageDashboard?LXYear=2021">2021</a></li>
+                                            <li><a href="https://jsgjc.jse.edu.cn/cxcypt/Index/ItemPageDashboard?LXYear=2020">2020</a></li>
+                                            <li><a href="https://jsgjc.jse.edu.cn/cxcypt/Index/ItemPageDashboard?LXYear=2019">2019</a></li>
+                                            <li><a href="https://jsgjc.jse.edu.cn/cxcypt/Index/ItemPageDashboard?LXYear=2018">2018</a></li>
+                                            <li><a href="https://jsgjc.jse.edu.cn/cxcypt/Index/ItemPageDashboard?LXYear=2017">2017</a></li>
+                                            <li><a href="https://jsgjc.jse.edu.cn/cxcypt/Index/ItemPageDashboard?LXYear=2016">2016</a></li>
+                                            <li><a href="https://jsgjc.jse.edu.cn/cxcypt/Index/ItemPageDashboard?LXYear=2015">2015</a></li>
+                                            <li><a href="https://jsgjc.jse.edu.cn/cxcypt/Index/ItemPageDashboard?LXYear=2014">2014</a></li>
+                                            <li><a href="https://jsgjc.jse.edu.cn/cxcypt/Index/ItemPageDashboard?LXYear=2013">2013</a></li>
+
+                                </ul>
+
+                    </li>
+                    <li class="first-li" data-index-nav-name="noticepagelist">
+                        <a href="https://jsgjc.jse.edu.cn/cxcypt/Index/NoticePageList">
+                            <span>
+                                通知公告
+                            </span>
+                        </a>
+                        <div class="underline"></div>
+                    </li>
+                    <li class="first-li" data-index-nav-name="policydocumentpagelist">
+                        <a href="https://jsgjc.jse.edu.cn/cxcypt/Index/PolicyDocumentPageList">
+                            <span>
+                                政策文件
+                            </span>
+                        </a>
+                        <div class="underline"></div>
+                    </li>
+                    <li class="first-li" data-index-nav-name="downloadzonepagelist">
+                        <a href="https://jsgjc.jse.edu.cn/cxcypt/Index/DownloadZonePageList">
+                            <span>下载专区</span>
+                        </a>
+                        <div class="underline"></div>
+                    </li>
+                    <li class="first-li" data-index-nav-name="faqpagelist">
+                        <a href="https://jsgjc.jse.edu.cn/cxcypt/Index/FAQPageList">
+                            <span>咨询问答</span>
+                        </a>
+                        <div class="underline"></div>
+                    </li>
+                    <li class="first-li fangwen">
+                        欢迎您！您是第<span class="num">7,932,860</span>个访问者
+                    </li>
+                </ul>
+                <a href="https://jsgjc.jse.edu.cn/cxcypt/Index/Certificate" class="userlogin-mibile visible-xs"><i class="fa fa-id-card"></i> 证书查询</a>
+                <div class="extra-text visible-xs">
+                    <a href="javascript:void(0);" class="probootstrap-burger-menu"><span class="panelclose"></span></a>
+                </div>
+            </nav>
+        </div>
+    </header>
+    <!-- 菜单 end -->
+    <div class="container c--body-container c--page-init-load">
+        
+
+
+
+
+
+
+
+<div class="bordergray c-page-container c-page-container--item-page-dashboard">
+    <ul class="breadcrumb">
+        <li>
+            <i class="fa fa-map-marker" style="margin-right: 10px"></i>当前位置 :
+        </li>
+        <li class="li-no-content">
+            <a href="https://jsgjc.jse.edu.cn/cxcypt">首页</a>
+        </li>
+        <li class="active">历年项目</li>
+    </ul>
+    <div class="dashboard-title">
+        2021年项目查询
+    </div>
+    <div class="search-form-container graybg search-form-container--dashboard">
+        <div class="dashboard-search-container c--dashboard--nav" data-nav-active="student" data-nav-searchtype="student">
+            <ul class="dashboard-search--navs noselect c--navs">
+                <li class="dashboard-search--nav active" data-nav-value="student">学生查询</li>
+                <li class="dashboard-search--nav" data-nav-value="teacher">教师查询</li>
+                <li class="dashboard-search--nav" data-nav-value="school">学校查询</li>
+            </ul>
+            <div class="dashboard-search--tabs c--tabs" style="min-height:560px;">
+                <div class="dashboard-search--tab active" data-nav-value="student">
+<form action="/cxcypt/cxcypt/Index/ItemPageList" class="search-form" id="SearchForm_1" method="get"><input id="LXYear" name="LXYear" type="hidden" value="2021" />                        <input name="SearchType" type="hidden" value="student" />
+                        <div class="search-form-content row">
+                            <label class="col-md-4 control-label">项目编号：</label>
+                            <div class="col-md-7 col-md-input">
+                                <input class="form-control c-input--square" id="ItemCode" name="ItemCode" placeholder="项目编号" type="text" value="" />
+                            </div>
+                            <label class="col-md-4 control-label">项目名称：</label>
+                            <div class="col-md-7 col-md-input">
+                                <input class="form-control c-input--square" id="ItemName" name="ItemName" placeholder="项目名称" type="text" value="" />
+                            </div>
+                            <label class="col-md-4 control-label">项目负责人姓名：</label>
+                            <div class="col-md-7 col-md-input">
+                                <input class="form-control c-input--square" id="FristUserName" name="FristUserName" placeholder="项目负责人姓名" type="text" value="" />
+                            </div>
+                            <label class="col-md-4 control-label">项目负责人账号：</label>
+                            <div class="col-md-7 col-md-input">
+                                <input class="form-control c-input--square" id="FristUserAccount" name="FristUserAccount" placeholder="项目负责人账号" type="text" value="" />
+                            </div>
+                            <label class="col-md-4 control-label">学校名称：</label>
+                            <div class="col-md-7 col-md-input">
+                                <input class="form-control c-input--square" id="SchoolName" name="SchoolName" placeholder="学校名称" type="text" value="" />
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4"></div>
+                            <div class="col-md-7">
+                                <div class="search-form-actions">
+                                    <button type="submit" class="btn btn-default searchbtntwo">查 询</button>
+                                </div>
+                            </div>
+                        </div>
+</form>                </div>
+                <div class="dashboard-search--tab" data-nav-value="teacher">
+<form action="/cxcypt/cxcypt/Index/ItemPageList" class="search-form" id="SearchForm_1" method="get"><input id="LXYear" name="LXYear" type="hidden" value="2021" />                        <input name="SearchType" type="hidden" value="teacher" />
+                        <div class="search-form-content row">
+                            <label class="col-md-4 control-label">项目编号：</label>
+                            <div class="col-md-7 col-md-input">
+                                <input class="form-control c-input--square" id="ItemCode" name="ItemCode" placeholder="项目编号" type="text" value="" />
+                            </div>
+                            <label class="col-md-4 control-label">项目名称：</label>
+                            <div class="col-md-7 col-md-input">
+                                <input class="form-control c-input--square" id="ItemName" name="ItemName" placeholder="项目名称" type="text" value="" />
+                            </div>
+                            <label class="col-md-4 control-label">项目负责人姓名：</label>
+                            <div class="col-md-7 col-md-input">
+                                <input class="form-control c-input--square" id="FristUserName" name="FristUserName" placeholder="项目负责人姓名" type="text" value="" />
+                            </div>
+                            <label class="col-md-4 control-label">指导教师姓名：</label>
+                            <div class="col-md-7 col-md-input">
+                                <input class="form-control c-input--square" id="TeacherName" name="TeacherName" placeholder="指导教师姓名" type="text" value="" />
+                            </div>
+                            <label class="col-md-4 control-label">学校名称：</label>
+                            <div class="col-md-7 col-md-input">
+                                <input class="form-control c-input--square" id="SchoolName" name="SchoolName" placeholder="学校名称" type="text" value="" />
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4"></div>
+                            <div class="col-md-7">
+                                <div class="search-form-actions">
+                                    <button type="submit" class="btn btn-default searchbtntwo">查 询</button>
+                                </div>
+                            </div>
+                        </div>
+</form>                </div>
+                <div class="dashboard-search--tab" data-nav-value="school">
+<form action="/cxcypt/cxcypt/Index/ItemPageList" class="search-form" id="SearchForm_1" method="get"><input id="LXYear" name="LXYear" type="hidden" value="2021" />                        <input name="SearchType" type="hidden" value="school" />
+                        <div class="search-form-content row">
+                            <label class="col-md-4 control-label">项目编号：</label>
+                            <div class="col-md-7 col-md-input">
+                                <input class="form-control c-input--square" id="ItemCode" name="ItemCode" placeholder="项目编号" type="text" value="" />
+                            </div>
+                            <label class="col-md-4 control-label">项目名称：</label>
+                            <div class="col-md-7 col-md-input">
+                                <input class="form-control c-input--square" id="ItemName" name="ItemName" placeholder="项目名称" type="text" value="" />
+                            </div>
+                            <label class="col-md-4 control-label">项目类型：</label>
+                            <div class="col-md-7 col-md-input">
+                                <select class="form-control c-input--square c-selectpicker" id="ItemType" name="ItemType" placeholder="项目类型"><option value="">请选择项目类型</option>
+<option value="创新训练项目(江苏)">创新训练项目</option>
+<option value="创业训练项目(江苏)">创业训练项目</option>
+<option value="创业实践项目(江苏)">创业实践项目</option>
+</select>
+                            </div>
+                            <label class="col-md-4 control-label">项目级别：</label>
+                            <div class="col-md-7 col-md-input">
+                                <select class="form-control c-input--square c-selectpicker" id="ItemLevel" name="ItemLevel" placeholder="项目级别"><option value="">请选择项目级别</option>
+<option value="国家级">省级重点项目</option>
+<option value="省级">省级一般项目</option>
+<option value="省级(校企)">校企合作基金项目</option>
+<option value="省级重点项目(自筹)">省级重点项目(自筹)</option>
+<option value="省级指导项目">省级指导项目</option>
+</select>
+                            </div>
+                            <label class="col-md-4 control-label">学校代码：</label>
+                            <div class="col-md-7 col-md-input">
+                                <input class="form-control c-input--square" id="SchoolCode" name="SchoolCode" placeholder="学校代码" type="text" value="" />
+                            </div>
+                            <label class="col-md-4 control-label">学校名称：</label>
+                            <div class="col-md-7 col-md-input">
+                                <input class="form-control c-input--square" id="SchoolName" name="SchoolName" placeholder="学校名称" type="text" value="" />
+                            </div>
+                            <label class="col-md-4 control-label">项目所属专业类代码：</label>
+                            <div class="col-md-7 col-md-input">
+                                <input class="form-control c-input--square" id="SubjectTwo" name="SubjectTwo" placeholder="项目所属专业类代码" type="text" value="" />
+                            </div>
+                        </div>
+                        <div class="row">
+                            <div class="col-md-4"></div>
+                            <div class="col-md-7">
+                                <div class="search-form-actions">
+                                    <button type="submit" class="btn btn-default searchbtntwo">查 询</button>
+                                </div>
+                            </div>
+                        </div>
+</form>                </div>
+            </div>
+        </div>
+    </div>
+</div>
+
+    </div>
+    <!-- footer start -->
+    <footer class="footer-area c--header-footer c--page-init-load">
+        <div class="footer-top padding-top-50 padding-bottom-40">
+            <div class="container">
+                <div class="footer-container">
+                    <span class="c-footer-part">
+                        <span class="footer-title">主办单位：</span>
+                        <span class="footer-content">
+                            <a href="http://jyt.jiangsu.gov.cn/" target="_blank" class="c-link--line">江苏省教育厅高教处</a>
+                        </span>
+                    </span>
+                    <span class="c-footer-part">
+                        <span class="footer-title">技术支持：</span>
+                        <span class="footer-content">
+                            <a href="http://www.changedu.com" target="_blank" class="c-link--line">南京先极科技有限公司</a>
+                        </span>
+                    </span>
+                </div>
+            </div>
+        </div>
+    </footer>
+    <!-- footer end -->
+    <!-- 返回顶部 start -->
+    <div class="back-to-top c--page-init-load">
+        <span class="back-top"><i class="fa fa-angle-up"></i></span>
+    </div>
+
+    <!-- 返回顶部 end -->
+    <input name="__RequestVerificationToken" type="hidden" value="FfQza7w_2Xr2a7DAnmW06TOLHWj3MjjM3l45GQbowX_rvHdshjmrKBb6Gv5heat6PX2EH7XFbTYHLhOSG73MQuNns77QFC7-3rygHy6oDdg1" />
+    <div class="hidden c-page-global-data">
+        <global-data data-name='_page_areas' data-value='' class='hidden' ></global-data><global-data data-name='_page_controller' data-value='index' class='hidden' ></global-data><global-data data-name='_page_action' data-value='itempagelist' class='hidden' ></global-data><global-data data-name='IndexThemeModel' data-value='Change.ServiceModel.SystemThemeSetModel' class='hidden' ></global-data><global-data data-name='ListItemType' data-value='System.Web.Mvc.SelectList' class='hidden' ></global-data><global-data data-name='ListItemLevel' data-value='System.Web.Mvc.SelectList' class='hidden' ></global-data><global-data data-name='Title' data-value='历年项目' class='hidden' ></global-data><global-data data-name='AppTheme' data-value='None' class='hidden' ></global-data><global-data data-name='MenuMode' data-value='' class='hidden' ></global-data><global-data data-name='UserId' data-value='' class='hidden' ></global-data><global-data data-name='UserAccount' data-value='' class='hidden' ></global-data><global-data data-name='UserName' data-value='' class='hidden' ></global-data><global-data data-name='HasMoreRole' data-value='False' class='hidden' ></global-data><global-data data-name='HasAvatr' data-value='False' class='hidden' ></global-data>
+    </div>
+    <div class="hidden c-page-global-root-data">
+        <global-root-data data-name='host' data-value='https://jsgjc.jse.edu.cn/cxcypt'  ></global-root-data>
+    </div>
+    
+    <script src="/cxcypt/assets/vendors/global/vendors.bundle.min.js" type="text/javascript"></script>
+    <script src="/cxcypt/assets/vendors/dist/js/theme1/scripts.bundle.js" type="text/javascript"></script>
+    <script src="/cxcypt/assets/dist/js/Areas/Index/Plugins/jquery.flexslider-min.js" type="text/javascript"></script>
+    <script src="/cxcypt/assets/dist/js/framework/change.page.language.4.0.js" type="text/javascript"></script>
+    <script src="/cxcypt/assets/dist/js/framework/change.page.4.0.js" type="text/javascript"></script>
+    <script src="/cxcypt/assets/dist/js/Areas/Index/Mode01/_Layout_Index.js" type="text/javascript"></script>
+    
+                <script src="/cxcypt/assets/dist/js/Areas/Index/Mode01/ItemPageDashboard.js" type="text/javascript"></script>
+            
+</body>
+</html>
